@@ -1,0 +1,20 @@
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="theme_color">#3a8646</color>
+    <!-- <color name="theme_color">#40aec8</color> -->
+    <!-- <color name="theme_color">#e51c23</color> -->
+    
+    <color name="navigation_drawer_background">#fff</color>
+    <color name="navigation_list_text_color">#000</color>
+    
+    <color name="dialpad_button_background">#fff</color>
+    <color name="dialpad_text">#000</color>
+    <color name="dialpad_background">#fff</color>
+    <color name="dialpad_text_color">#adadad</color>
+    
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#77000000</color>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oftly.oftly.ContactListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_contacts_firstLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+</com.oftly.oftly.ContactListView>

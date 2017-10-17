@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vivekpandey/.android/build-cache/c29b64eb219e4f57242c662c67201cd56b4dde3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/pre-dexed/release/classes_c018d861124f0b70204a923d31277c661af94cf7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivekpandey/.android/build-cache/4042d1eaeb6f1cd87b6378a35c2ac1255f0b65b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cb41bcb65c8be16a7c52fa70eb70a45f0f9e4a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_df360967fa8f52e21549d220e8660d0bbe3e765b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vivekpandey/.android/build-cache/23682fb08c757b4ace7d3f6057b91efe09463d20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/pre-dexed/release/classes_8e1db31f24a8a90c208ef8d27d289f1f2a5d3dad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vivekpandey/.android/build-cache/4042d1eaeb6f1cd87b6378a35c2ac1255f0b65b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/pre-dexed/release/classes_6cb41bcb65c8be16a7c52fa70eb70a45f0f9e4a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vivekpandey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/pre-dexed/release/support-annotations-26.0.0-alpha1_0c0673e76793dd0fbcd0d06da3fa165378b2d72c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivekpandey/.android/build-cache/23682fb08c757b4ace7d3f6057b91efe09463d20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e1db31f24a8a90c208ef8d27d289f1f2a5d3dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivekpandey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_0c0673e76793dd0fbcd0d06da3fa165378b2d72c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vivekpandey/.android/build-cache/da25f959bd5f34d69f61b8954d39a4909d1cb9ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/pre-dexed/release/classes_401a5f08ba38e7e011932861ed191eca174c7cd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vivekpandey/.android/build-cache/303348ad816a1eea603ab457161feafbff3b51c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/pre-dexed/release/classes_f27daa526ec00b3e45831b71b05b5bf7f0dc8b0d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivekpandey/.android/build-cache/303348ad816a1eea603ab457161feafbff3b51c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f27daa526ec00b3e45831b71b05b5bf7f0dc8b0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vivekpandey/.android/build-cache/a6c8f98aae8299553c8397338d3ef4529d955c50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/pre-dexed/release/classes_e77e07d2b0b710150e1b9b23d536b8b414eea1bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vivekpandey/.android/build-cache/263e34fbd3f43e756195211a302a1c3641befdbc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/pre-dexed/release/classes_f437865d9fe8295dc06e662ecca645fe7718241f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivekpandey/.android/build-cache/a6c8f98aae8299553c8397338d3ef4529d955c50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e77e07d2b0b710150e1b9b23d536b8b414eea1bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivekpandey/.android/build-cache/263e34fbd3f43e756195211a302a1c3641befdbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f437865d9fe8295dc06e662ecca645fe7718241f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="262eee1e136975b660042660c266c79ad6f13bd6">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d7cde78815a3d435d2bf9eaf0a3b2be0e4f58dbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivekpandey/.android/build-cache/c29b64eb219e4f57242c662c67201cd56b4dde3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c018d861124f0b70204a923d31277c661af94cf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vivekpandey/.android/build-cache/da25f959bd5f34d69f61b8954d39a4909d1cb9ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vivekpandey/Oftly-as/oftly-as/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_401a5f08ba38e7e011932861ed191eca174c7cd2/classes.dex" />
+    </item>
+
+</items>

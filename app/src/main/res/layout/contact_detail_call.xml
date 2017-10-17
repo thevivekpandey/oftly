@@ -1,0 +1,36 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/contact_detail_call"
+    android:orientation="vertical">
+
+	<ImageView
+	    android:id="@+id/contact_detail_call_type"
+        android:layout_width="18dp"
+        android:layout_height="18dp"
+        android:src="@drawable/incoming_purple"
+        android:layout_marginLeft="20dp"
+    	android:layout_marginTop="15dp"
+	    >	    
+	</ImageView>
+	<TextView
+	    android:id="@+id/contact_detail_call_time"
+	    android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:textSize="16sp"
+    	android:textColor="@color/black"
+    	android:layout_marginLeft="15dp"
+    	android:layout_marginTop="10dp"
+    	android:layout_toRightOf="@+id/contact_detail_call_type"
+	/>
+	<TextView
+	    android:id="@+id/contact_detail_duration"
+	    android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:textSize="16sp"
+    	android:textColor="@color/black"
+    	android:layout_marginBottom="15dp"
+        android:layout_marginLeft="54dp"
+    	android:layout_below="@+id/contact_detail_call_time"
+	/>
+	
+</RelativeLayout>

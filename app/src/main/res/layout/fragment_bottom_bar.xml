@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/bottom_bar"
+android:layout_width="fill_parent"
+android:orientation="horizontal"
+android:layout_height="65dp"
+android:layout_gravity="bottom"
+	>
+
+<RelativeLayout
+	android:layout_width="match_parent"
+	android:layout_weight="2"
+	android:layout_height="fill_parent"
+	>
+	<ImageButton
+		android:id="@+id/dialpad_button"
+		android:layout_width="55dp"
+		android:layout_height="55dp"
+		android:scaleType="fitCenter"
+		android:background="@android:color/transparent"
+		android:onClick="dialPadButtonPressed"
+		android:src="@drawable/dialpad"
+		android:layout_alignParentRight="true"
+		android:layout_alignParentBottom="true"
+		android:layout_marginRight="10dp"
+		>
+	</ImageButton>
+</RelativeLayout>
+
+<RelativeLayout
+	android:layout_width="fill_parent"
+	android:layout_weight="2"
+	android:layout_height="fill_parent"
+
+	>
+	<ImageButton
+		android:id="@+id/toggle_calllog"
+		android:layout_width="55dp"
+		android:layout_height="55dp"
+		android:scaleType="fitCenter"
+		android:background="@android:color/transparent"
+		android:onClick="toggleCallLog"
+		android:src="@drawable/calllog"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentBottom="true"
+		android:layout_marginLeft="10dp"
+		>
+	</ImageButton>
+</RelativeLayout>
+
+</LinearLayout>

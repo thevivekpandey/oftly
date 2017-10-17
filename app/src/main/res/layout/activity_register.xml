@@ -1,0 +1,101 @@
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/register_outer"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context="com.oftly.oftly.MainActivity" 
+	>
+	
+    <LinearLayout
+    android:id="@+id/fragment_get_phone_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+	android:layout_marginTop="30dp">
+	       
+	    <LinearLayout
+		      android:layout_width="fill_parent"
+		      android:layout_height="50dp"
+		      android:orientation="horizontal"
+		      android:layout_marginTop="10sp">
+        	<TextView
+	          android:layout_width="0dp"
+	          android:layout_weight="1"
+	          android:layout_height="match_parent"/>	        
+		    <TextView
+		          android:id="@+id/registration_country"
+     	          android:layout_width="0dp"
+		          android:layout_weight="10"
+     	          android:layout_height="match_parent"
+		          android:gravity="center"
+		          android:textSize="20sp"
+		          android:singleLine="true"
+		          android:textColor="#000"
+		          android:background="@drawable/registration_text_view_rounded_corner"
+		          android:layout_gravity="bottom"/>		    
+		    <TextView
+	          android:layout_width="0dp"
+	 	      android:layout_height="match_parent"
+	          android:layout_weight="1"/>
+		</LinearLayout>
+
+	    <LinearLayout
+		      android:layout_width="fill_parent"
+		      android:layout_height="50dp"
+		      android:orientation="horizontal"
+		      android:layout_marginTop="10sp">
+        	<TextView
+	          android:layout_width="0dp"
+	          android:layout_weight="1"
+	          android:layout_height="match_parent"/>
+		    <EditText
+		          android:id="@+id/registration_phone_number"
+		          android:layout_width="0dp"
+			      android:layout_weight="10"
+	     	      android:layout_height="match_parent"
+		          android:gravity="center"
+		          android:textSize="20sp"
+		          android:singleLine="true"
+		          android:textColor="#000"        
+		          android:hint="Enter your phone number"     
+		          android:layout_gravity="bottom"
+		          android:background="@drawable/registration_text_view_rounded_corner"
+		          android:inputType="phone"/>
+	    	<TextView
+	          android:layout_width="0dp"
+	 	      android:layout_height="match_parent"
+	          android:layout_weight="1"/>
+		</LinearLayout>
+  
+	    <LinearLayout
+		      android:layout_width="fill_parent"
+		      android:layout_height="50dp"
+		      android:orientation="horizontal"
+		      android:layout_marginTop="10sp">
+	        <TextView
+	          android:layout_width="0dp"
+	          android:layout_weight="1"
+	          android:layout_height="match_parent"/>
+		    <TextView
+		          android:id = "@+id/registration_send_check_sms"
+		          android:layout_width="0dp"
+		          android:layout_weight="10"
+     	          android:layout_height="match_parent"
+		          android:gravity="center"
+		          android:textSize="20sp"
+		          android:singleLine="true"
+		          android:textColor="#fff"        
+		          android:text="Get started"
+		          android:layout_gravity="bottom"
+		          android:clickable="true"
+		          android:onClick="sendSmsButtonClicked"
+		          android:background="@drawable/registration_button_rounded_corner"
+		    />
+		    <TextView
+	          android:layout_width="0dp"
+	 	      android:layout_height="match_parent"
+	          android:layout_weight="1"/>
+	    </LinearLayout>
+	</LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,10 @@
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        
+    <item
+        android:id="@+id/search"
+        android:title="Vivek"
+        android:icon="@color/theme_color"
+        android:showAsAction="ifRoom"
+        android:color="@color/theme_color"
+        android:actionViewClass="android.widget.SearchView" />
+    </menu>

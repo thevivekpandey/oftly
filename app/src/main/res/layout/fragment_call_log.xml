@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oftly.oftly.CallLogLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/fragment_call_log"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#ffffff"
+    >
+	<ListView
+	    android:id="@+id/call_log"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:divider="@null"
+		android:dividerHeight="0dp"
+	    android:gravity="center"
+	    android:scrollingCache="false"
+	    android:animationCache="false"
+	    />
+</com.oftly.oftly.CallLogLayout>

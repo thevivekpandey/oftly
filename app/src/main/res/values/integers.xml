@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="contact">0</integer>
+    <integer name="call">1</integer>
+    <integer name="contact_id">2</integer>
+    <integer name="dst_phone">3</integer>
+    <integer name="tgt_phone">4</integer>
+    <integer name="brother_view">5</integer>
+    <integer name="shared_button_view">5</integer>
+    <integer name="google_play_services_version">22</integer>
+</resources>

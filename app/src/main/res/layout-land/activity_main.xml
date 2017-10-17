@@ -1,0 +1,79 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/outer"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+    android:orientation="horizontal"
+	>
+    <RelativeLayout
+        android:id="@+id/main_land_smartScreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="5">
+        <RelativeLayout
+            android:id="@+id/main_land_smartlist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></RelativeLayout>
+
+        <fragment
+            android:id="@+id/fragment_bottom_bar"
+            android:name="BottomBarFragment"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:layout_alignParentBottom="true"
+            class="com.oftly.oftly.BottomBarFragment">
+        </fragment>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/main_land_second_screen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="3">
+        <fragment
+            android:id="@+id/fragment_contacts"
+            android:name="ContactBlockFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            class="com.oftly.oftly.ContactBlockFragment">
+        </fragment>
+
+        <fragment
+            android:id="@+id/fragment_call_log"
+            android:name="CallLogFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            class="com.oftly.oftly.CallLogFragment">
+        </fragment>
+
+        <fragment
+            android:id="@+id/fragment_transparent"
+            android:name="TransparentFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#77777777"
+            class="com.oftly.oftly.TransparentFragment">
+        </fragment>
+
+        <fragment
+            android:id="@+id/fragment_dialpad"
+            android:name="DialpadFragment"
+            android:tag="fragment_dialpad"
+            android:layout_width="match_parent"
+            android:layout_height="360dp"
+            android:layout_alignParentBottom="true"
+            class="com.oftly.oftly.DialpadFragment">
+        </fragment>
+
+
+        <fragment
+            android:id="@+id/fragment_contact_detail"
+            android:name="ContactDetail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            class="com.oftly.oftly.ContactDetailFragment">
+        </fragment>
+    </RelativeLayout>
+
+</LinearLayout>

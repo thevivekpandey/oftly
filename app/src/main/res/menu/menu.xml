@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/share_photos"
+          android:title="Share contact photos"/>
+    <item android:id="@+id/received_photos"
+          android:title="Photos I received"/>
+</menu>
